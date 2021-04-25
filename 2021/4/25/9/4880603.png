@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:9
+#EXTINF:8.408411,
+https://sf1-dycdn-tos.pstatp.com/obj/douyin-web-image/ccb002e2fbf7662f0b4d6e1291e08795
+#EXTINF:6.673333,
+https://sf1-dycdn-tos.pstatp.com/obj/douyin-web-image/c5005f44bd5b9cfaed944bc73a53f791
+#EXT-X-ENDLIST
